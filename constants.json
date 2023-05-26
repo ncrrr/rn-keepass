@@ -1,0 +1,13 @@
+{
+    "styles": {
+        "font": {
+            "default": "grey",
+            "title": "lightgrey",
+            "selected": "white"
+        },
+        "background": {
+            "default": "#222",
+            "selected": "grey"
+        }
+    }
+}
